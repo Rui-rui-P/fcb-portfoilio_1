@@ -1,0 +1,66 @@
+* {
+	font-family: 'Roboto1', sans-serif;
+	background-color: #20FFF8;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg stroke='%233162F6' stroke-width='66.7' stroke-opacity='0.05' %3E%3Ccircle fill='%2320FFF8' cx='0' cy='0' r='1800'/%3E%3Ccircle fill='%2300eff1' cx='0' cy='0' r='1700'/%3E%3Ccircle fill='%2300dfea' cx='0' cy='0' r='1600'/%3E%3Ccircle fill='%2300cfe1' cx='0' cy='0' r='1500'/%3E%3Ccircle fill='%2300bfd8' cx='0' cy='0' r='1400'/%3E%3Ccircle fill='%2300afcd' cx='0' cy='0' r='1300'/%3E%3Ccircle fill='%2300a0c2' cx='0' cy='0' r='1200'/%3E%3Ccircle fill='%230090b6' cx='0' cy='0' r='1100'/%3E%3Ccircle fill='%230081a8' cx='0' cy='0' r='1000'/%3E%3Ccircle fill='%2300739b' cx='0' cy='0' r='900'/%3E%3Ccircle fill='%2300648c' cx='0' cy='0' r='800'/%3E%3Ccircle fill='%2300567e' cx='0' cy='0' r='700'/%3E%3Ccircle fill='%2305496e' cx='0' cy='0' r='600'/%3E%3Ccircle fill='%230b3c5f' cx='0' cy='0' r='500'/%3E%3Ccircle fill='%230e2f50' cx='0' cy='0' r='400'/%3E%3Ccircle fill='%230d2341' cx='0' cy='0' r='300'/%3E%3Ccircle fill='%230a1832' cx='0' cy='0' r='200'/%3E%3Ccircle fill='%23070924' cx='0' cy='0' r='100'/%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;
+}
+
+p{
+	color: #F0DBAF;
+}
+h1{
+	color: #F0DBAF;
+}
+h1, p{
+	font-family: 'Montserrat', sans-serif;
+}
+a{
+	font-family: 'Roboto1', sans-serif;
+}
+#profile {
+	height: 150px;
+	width: 250px;
+
+	 border-radius: 50%;
+	 border-style: solid;
+	 border-color: #F0DBAF;
+}
+
+#profile-2 {
+	height: 150px;
+	width: 250px;
+
+	 border-radius: 50%;
+	 border-style: solid;
+	 border-color: #F0DBAF;
+}
+#profile-3 {
+	height: 150px;
+	width: 250px;
+
+	 border-radius: 50%;
+	 border-style: solid;
+	 border-color: #F0DBAF;
+}
+#landing {
+	height: 80vh;
+	display: flex;
+	flex-direction: column ;
+	flex-content:center;
+	align-items: center;
+}
+#landing_2 {
+	height: 80vh;
+	display: flex;
+	flex-direction: column ;
+	flex-content:center;
+	align-items: center;
+}
+#landing_3 {
+	height: 80vh;
+	display: flex;
+	flex-direction: column ;
+	flex-content:center;
+	align-items: center;
+}
